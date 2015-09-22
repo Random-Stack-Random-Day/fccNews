@@ -1,0 +1,29 @@
+.fccHead{
+  text-align: center;
+}
+.nameHead{
+  color:red;
+  text-align: center;
+}
+#newsLogo{
+  width: 200px;
+  height: 200px;
+  margin: auto auto auto auto;
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em;
+}
+.hlTest{
+  color: blue;
+}
+.desc{
+  text-align: center;
+}
+.newsPost{
+  position: relative;
+  text-align: center;
+}
+footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
